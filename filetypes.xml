@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="app_has_current" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
     </extensionMap>
